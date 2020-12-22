@@ -1,0 +1,13 @@
+.home-section {
+  background-color: #26235f;
+  padding-top: 20px;
+}
+
+.site-title {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 500px;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}

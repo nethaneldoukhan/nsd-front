@@ -1,0 +1,37 @@
+.img_services {
+    max-width: 350px;
+}
+
+.max-wid800 {
+    max-width: 800px !important;
+    margin: auto !important;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ta-j {
+    text-align: justify;
+}
+
+
+@media screen and (min-width: 960px) {
+
+    .md-ta-l {
+        text-align: left;
+    }
+
+}
+
+@media screen and (max-width: 959px) {
+    .sx-ta-c {
+        text-align: center;
+    }
+    
+    .flex-services p {
+        max-width: 300px;
+        margin: auto;
+    }
+}

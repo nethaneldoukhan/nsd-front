@@ -1,0 +1,67 @@
+.container-checkDomaine {
+    margin-top: 40px !important;
+}
+
+.title-checkDomaine {
+    font-size: 25px;
+    font-weight: unset;
+}
+
+.form-domainCheck {
+    /* padding: 20px; */
+    background-color: unset !important;
+    margin-right: auto;
+    /* box-shadow: 3px 3px 8px -3px rgb(105 104 136), 2px 11px 17px 5px rgb(0 0 0), 0px 5px 22px 4px rgba(0,0,0,0.12) !important; */
+}
+
+.form-domainCheck i {
+    position: absolute;
+    font-size: 25.5px;
+    color: black;
+    z-index: 1;
+    padding: 15px;
+}
+
+.form-domainCheck .input-root {
+    width: calc(100% - 83px);
+    margin: 0px;
+}
+
+.form-domainCheck label {
+    padding-right: 40px;
+}
+
+.form-domainCheck .MuiInputBase-root {
+    background-color: #fff;
+    padding-right: 40px;
+}
+
+.form-domainCheck .MuiInputLabel-formControl {
+    right: 30px;
+}
+
+.form-domainCheck .MuiFormLabel-root.MuiInputLabel-outlined.MuiInputLabel-shrink {
+    color: white !important;
+}
+
+.form-domainCheck legend {
+    text-align: right !important;
+}
+
+/* .form-domainCheck legend span {
+    color: gray !important;
+} */
+
+.form-domainCheck .MuiInputLabel-shrink {
+    transform-origin: top right;
+}
+
+.form-domainCheck .MuiInputLabel-outlined.MuiInputLabel-shrink {
+    transform: translate(44px, -20px) scale(0.75) !important;
+}
+
+.form-domainCheck .button-send-message {
+    /* margin-top: 17px !important; */
+    font-size: 26px;
+    /* margin-right: calc(50% - 32px) !important; */
+}

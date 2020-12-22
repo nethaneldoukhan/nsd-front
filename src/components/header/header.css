@@ -1,0 +1,42 @@
+.makeStyles-root-1 {
+    background-color: #26235f;
+}
+
+.logo_site {
+    max-width: 100px;
+}
+
+.header-list {
+    display: inline-block;
+    list-style: none;
+}
+
+.header-list .header-icon {
+    color: white;
+    font-size: 30px;
+}
+
+.MuiGrid-container {
+    padding: 10px;
+    max-width: 1140px !important;
+}
+
+.flex-header {
+    width: 100% !important;
+    margin: 0 !important;
+}
+
+
+@media screen and (max-width: 1139px) {
+    .MuiGrid-container {
+        max-width: 960px !important;
+    }
+}
+
+@media screen and (min-width: 1023px) {
+    
+    .MuiGrid-container {
+        margin: auto !important;
+    }
+
+}

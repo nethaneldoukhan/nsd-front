@@ -1,0 +1,11 @@
+@media (min-width: 960px) {
+
+    .MuiGrid-grid-md-7 {
+        max-width: 33.333333% !important;
+    }
+
+}
+
+.mar-auto {
+    margin: auto !important;
+}
